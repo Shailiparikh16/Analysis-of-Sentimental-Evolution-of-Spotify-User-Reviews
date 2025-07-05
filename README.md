@@ -71,7 +71,3 @@ This temporal approach to sentiment analysis offers Spotify a more nuanced under
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share with attribution.
 
----
-
-## 🚀 Repository
-🔗 [View on GitHub](https://github.com/your-username/spotify-sentiment-evolution)
